@@ -12,3 +12,5 @@
 ## 5. git branch -M branch
 ## 6. git remote add origin "your github url like https://github.com/RBLCA/RB-git-practice.git"
 ## 7. git push -u origin main
+
+## 3. git status :- To chech the status of the file whether it is added or commited or not.
